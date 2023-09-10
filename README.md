@@ -52,3 +52,11 @@ With Intel(R) Extension for Scikit-learn you can accelerate your Scikit-learn ap
 ## How to use?
 
 Download the notebook and run it in your favorite IDE for ML. 
+
+## Conclusion
+
+I hope you find this project insightful and informative. Feel free to explore the code, dataset, and documentation to better understand the process and results of predicting EPL match outcomes using machine learning.
+
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out.
+
+Thank you for visiting this repository!
